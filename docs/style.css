@@ -1,0 +1,9 @@
+.hidden-flag {
+  color: #fff;             
+  background-color: #fff;  
+  font-size: 1px;          
+  display: inline-block;
+  content: "rhul{h1dden_1n_css}";
+  width: 1px;
+  height: 1px;
+}
